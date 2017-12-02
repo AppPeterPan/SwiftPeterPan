@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='22-1'/>
+        <page name='22-2'/>
+        <page name='22-3'/>
+        <page name='22-4_1'/>
+        <page name='22-4_2'/>
+        <page name='22-4_3'/>
+        <page name='22-4_4'/>
+        <page name='22-4_5'/>
+        <page name='22-4_6'/>
+        <page name='22-5_1'/>
+        <page name='22-5_2'/>
+        <page name='22-5_3'/>
+        <page name='22-5_4'/>
+        <page name='22-6_1'/>
+        <page name='22-6_2'/>
+    </pages>
+</playground>

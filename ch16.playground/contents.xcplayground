@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='16_1'/>
+        <page name='16_2-1'/>
+        <page name='16_2-2'/>
+        <page name='16_3'/>
+        <page name='16_4'/>
+        <page name='16_5'/>
+        <page name='16_7-1'/>
+        <page name='16_7-2'/>
+        <page name='16_7-3'/>
+        <page name='16_8'/>
+    </pages>
+</playground>

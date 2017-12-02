@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='18_1-1'/>
+        <page name='18_1-2'/>
+        <page name='18_2'/>
+        <page name='18_3-1'/>
+        <page name='18_3-2'/>
+        <page name='18_4-1'/>
+        <page name='18_4-2'/>
+        <page name='18_4-3'/>
+        <page name='18_4-4'/>
+        <page name='18_5'/>
+        <page name='18_6'/>
+    </pages>
+</playground>

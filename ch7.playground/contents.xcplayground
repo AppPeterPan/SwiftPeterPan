@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='7-2'/>
+        <page name='7-3'/>
+        <page name='7-4'/>
+        <page name='7-5'/>
+        <page name='7-6'/>
+        <page name='7-7 ~ 7-8'/>
+        <page name='7-9'/>
+        <page name='7-10_1'/>
+        <page name='7-10_2'/>
+    </pages>
+</playground>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='10_1'/>
+        <page name='10_3 ~ 10_4'/>
+        <page name='10_5-1'/>
+        <page name='10_5-2'/>
+        <page name='10_6-1'/>
+        <page name='10_6-2'/>
+        <page name='10_7'/>
+        <page name='10_8'/>
+        <page name='10_10-1'/>
+        <page name='10_10-2'/>
+        <page name='10_10-3'/>
+        <page name='10_10-4'/>
+        <page name='10_11'/>
+        <page name='10_12'/>
+        <page name='10_13'/>
+    </pages>
+</playground>

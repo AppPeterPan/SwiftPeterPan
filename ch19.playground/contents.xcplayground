@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='19_1-1'/>
+        <page name='19_1-2'/>
+        <page name='19_1-3'/>
+        <page name='19_2-1'/>
+        <page name='19_2-2'/>
+        <page name='19_2-3'/>
+        <page name='19_2-4'/>
+        <page name='19_3'/>
+    </pages>
+</playground>
